@@ -1,0 +1,25 @@
+{
+  "name": "replace-plus-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader to replace values in files ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanxinqi/replace-plus-loader.git"
+  },
+  "author": "fanxinqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanxinqi/replace-plus-loader/issues"
+  },
+  "homepage": "https://github.com/fanxinqi/replace-plus-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
